@@ -1,7 +1,0 @@
-python-telegram-bot==20.7
-pandas
-openpyxl
-apscheduler
-watchdog
-pytz
-nest_asyncio 
